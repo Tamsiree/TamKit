@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 30310e62de7ae6a419ad685875875064
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - targetShader: {fileID: 4800000, guid: 4adde53f2f52a0748b39ca6051a53d2f, type: 3}
+  - additionalCamera: {instanceID: 0}
+  - drawOccupied: {fileID: 4800000, guid: 0852728e1c571b5439153a723e4bdb93, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
